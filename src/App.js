@@ -34,7 +34,6 @@ function App() {
       ></input>
       <button onClick={handleSearch}>Search</button>
       <h4>Definition:</h4>
-      <br />
       <p>{result}</p>
     </div>
   );
